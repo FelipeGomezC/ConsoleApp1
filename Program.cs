@@ -6,7 +6,9 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            string lecturaLineaConsola="";
             Console.WriteLine("Hello World!");
+            lecturaLineaConsola = Console.ReadLine();
         }
     }
 }
